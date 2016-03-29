@@ -1,16 +1,16 @@
 {
   "name": "unique-duplicates",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "returns the unique values of duplicates within an array.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohamedhayibor/unique-duplicates.git"
   },
-  "keywords": [],
+  "keywords": ["duplicates", "unique", "array", "unique-duplicates", "find"],
   "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
   "license": "MIT",
   "bugs": {

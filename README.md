@@ -12,8 +12,8 @@ This module returns the unique values of duplicates within an array. Use it only
 ```js
 import uniqueDuplicates from 'unique-duplicates' // or  const uniqueDuplicates = require('unique-duplicates')
 
-console.log(uniqueDuplicates([1, 2, 4, 4, 3, 3, 1, 5, 3, '5'])) // [1, 4, 3]
-console.log(uniqueDuplicates(['Amy', 'Mario', 1, 3, 'Amy', 3, '1'])) // [ 'Amy', 3 ]
+console.log(uniqueDuplicates([1, 2, 4, 4, 3, 3, 1, 5, 3, '5'])) // ==> [1, 4, 3]
+console.log(uniqueDuplicates(['Amy', 'Mario', 1, 3, 'Amy', 3, '1'])) // ==> [ 'Amy', 3 ]
 ```
 
 ## Raison d'être
