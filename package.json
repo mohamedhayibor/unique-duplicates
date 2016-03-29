@@ -11,8 +11,8 @@
     "url": "git+https://github.com/mohamedhayibor/unique-duplicates.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mohamedhayibor/unique-duplicates/issues"
   },
